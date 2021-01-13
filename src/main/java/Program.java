@@ -49,7 +49,7 @@ public class Program {
             System.out.print("Enter the second number: ");
             num2 = sc1.nextInt();
             int operation = c.mult(num1, num2);
-            System.out.print("The result of the multiplication3 is: " + operation);
+            System.out.print("The result of the multiplication is: " + operation);
         }
         else if (option == 4) {
             Scanner sc1 = new Scanner(System.in);
